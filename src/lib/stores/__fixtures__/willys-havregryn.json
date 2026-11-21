@@ -1,0 +1,283 @@
+{
+ "labels": [
+  "swedish_flag",
+  "from_sweden",
+  "keyhole"
+ ],
+ "potentialPromotions": [],
+ "inactivePotentialPromotions": [],
+ "nutrientComponents": [],
+ "maxStorageTemperature": "",
+ "nutritionsFactList": [
+  {
+   "value": "1550",
+   "typeCode": "energi",
+   "unitCode": "kilojoule",
+   "measurementPrecisionCode": ""
+  }
+ ],
+ "foodContactAddress": "107 69 Stockholm",
+ "extendedLabels": [
+  {
+   "code": "Z05",
+   "name": "Nyckelhålet",
+   "description": "Nyckelhålet",
+   "imgUrl": "https://www.willys.se/medias/Z05-26p.png?context=bWFzdGVyfHJvb3R8ODc4fGltYWdlL3BuZ3xjM2x6TFcxaGMzUmxjaTl5YjI5MEwyZzNZaTlvTVRjdk9EZ3dNVEEzTlRNek1URXdNaTlhTURWZk1qWndMbkJ1Wnd8YmM5OGEwNTJhOTE2Njk2YmE4MjUzMmZmYmY2MDRhNGY2YjI1YWUwZjQwYTE2MmY3MDRjOTFmN2IxZGQzOWFmZQ",
+   "thumbnailUrl": "https://www.willys.se/medias/Z05-22p.png?context=bWFzdGVyfHJvb3R8MTAyNXxpbWFnZS9wbmd8YzNsekxXMWhjM1JsY2k5eWIyOTBMMmd6TlM5b01XRXZPRGd3TVRBM05USTVPRE16TkM5YU1EVmZNakp3TG5CdVp3fDYxNTRhZDZhMjE1MDU2ZjI4YzAxYmNkNTgyZTQxMTNjOWE0YTk1YTk2MjNhYTM3OTU1OTA1MTcwNjlmMTAyZjY"
+  },
+  {
+   "code": "Z64",
+   "name": "Från Sverige",
+   "description": "Från Sverige",
+   "imgUrl": "",
+   "thumbnailUrl": ""
+  }
+ ],
+ "tradeItemCountryOfOrigin": "Sverige",
+ "nutritionFacts": "",
+ "salableOnline": true,
+ "preparationDescription": "mikrovågsugn: 1. Blanda gryn, vatten och salt i en stor djup tallrik. 2. Tillaga på full effekt i 2–3 minuter. 3. Rör om och servera.",
+ "compulsoryAdditiveLabelInformation": "",
+ "nutrientHeaders": [
+  {
+   "preparationStateCode": null,
+   "dailyValueIntakeReference": "",
+   "servingSizeDescription": "",
+   "servingSize": "",
+   "servingsSizeMeasurementUnitCode": "",
+   "nutrientBasisQuantity": "100",
+   "nutrientBasisQuantityMeasurementUnitCode": "gram",
+   "nutrientBasisQuantityTypeCode": "BY_MEASURE",
+   "driPercentageAvailable": false,
+   "nutrientDetails": [
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "1550",
+     "measurementUnitCode": "kilojoule",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "fett",
+     "quantityContained": "7",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "370",
+     "measurementUnitCode": "kilokalori",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav mättat fett",
+     "quantityContained": "1.2",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "kolhydrat",
+     "quantityContained": "58",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav sockerarter",
+     "quantityContained": "2.2",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "fiber",
+     "quantityContained": "10",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "protein",
+     "quantityContained": "13",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "salt",
+     "quantityContained": "0",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    }
+   ]
+  },
+  {
+   "preparationStateCode": null,
+   "dailyValueIntakeReference": "",
+   "servingSizeDescription": "",
+   "servingSize": "",
+   "servingsSizeMeasurementUnitCode": "",
+   "nutrientBasisQuantity": "40",
+   "nutrientBasisQuantityMeasurementUnitCode": "gram",
+   "nutrientBasisQuantityTypeCode": "BY_MEASURE",
+   "driPercentageAvailable": false,
+   "nutrientDetails": [
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "620",
+     "measurementUnitCode": "kilojoule",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "148",
+     "measurementUnitCode": "kilokalori",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "fett",
+     "quantityContained": "2.8",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav mättat fett",
+     "quantityContained": "0.5",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "kolhydrat",
+     "quantityContained": "23",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav sockerarter",
+     "quantityContained": "0.9",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "fiber",
+     "quantityContained": "4",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "protein",
+     "quantityContained": "5.2",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "salt",
+     "quantityContained": "0",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    }
+   ]
+  }
+ ],
+ "dietTypeInformation": "",
+ "batteryInformation": [],
+ "nutritionalClaim": "",
+ "healthClaimDescription": "",
+ "preparationType": "Tillaga i mikrovågsugn",
+ "regulatoryAct": "",
+ "servingSize": null,
+ "instructions": "",
+ "countryOfOriginStatement": "",
+ "animalData": null,
+ "minStorageTemperature": "",
+ "consumerUsageInstructions": "Antal portioner per förpackning: ca 37 st. Beräknad mängd per portion: För gröt: 1 dl gryn = ca 40g.",
+ "provinceStatement": "Ursprung havre: Sverige.",
+ "nutritionDescription": "100 gram",
+ "areBatteriesIncluded": false,
+ "areBatteriesRequired": false,
+ "googleAnalyticsCategory": "skafferi|flingor-gryner-och-musli|gryner-och-grot",
+ "variantType": "",
+ "ean": "7311043026838",
+ "fruitAndVegetableVariety": "",
+ "otherCountries": [],
+ "foodContactName": "Axfood AB",
+ "medicineType": "",
+ "saleStop": null,
+ "medicineLink": "",
+ "categoryGroupText": "",
+ "image": {
+  "imageType": "PRIMARY",
+  "format": "zoom",
+  "url": "https://assets.axfood.se/image/upload/f_auto,t_500/07311043026838_C1L1_s02",
+  "altText": "Havregryn 1,5kg Garant",
+  "galleryIndex": null,
+  "width": null
+ },
+ "isDrugProduct": false,
+ "extraInfoCode": "",
+ "activeSubstance": "",
+ "originCountry": "",
+ "newsSplashProduct": false,
+ "notAllowedAnonymous": false,
+ "notAllowedB2b": false,
+ "pickupProductLine2": "GARANT, 1,5kg",
+ "priceNoUnit": "17,90",
+ "priceUnit": "kr/st",
+ "productLine2": "GARANT, 1,5kg",
+ "gdprTrackingIncompliant": false,
+ "savingsAmount": null,
+ "showGoodPriceIcon": false,
+ "precautionaryStatements": [],
+ "tobaccoFreeNicotineProduct": false,
+ "hazards": [],
+ "nicotineMedicalProduct": false,
+ "tobaccoProduct": false,
+ "nonEkoProduct": false,
+ "price": "17,90 kr",
+ "priceValue": 17.9,
+ "solrSearchScore": null,
+ "ranking": null,
+ "comparePriceUnit": "kg",
+ "energyDeclaration": null,
+ "comparePrice": "11,93 kr",
+ "averageWeight": null,
+ "depositPrice": "",
+ "displayVolume": "1,5kg",
+ "outOfStock": false,
+ "online": true,
+ "addToCartDisabled": false,
+ "code": "101833307_ST",
+ "thumbnail": {
+  "imageType": "PRIMARY",
+  "format": "zoom",
+  "url": "https://assets.axfood.se/image/upload/f_auto,t_500/07311043026838_C1L1_s02",
+  "altText": "Havregryn 1,5kg Garant",
+  "galleryIndex": null,
+  "width": null
+ },
+ "maxOrderQuantity": null,
+ "seoDescription": "",
+ "seoTitle": "",
+ "manufacturer": "Garant",
+ "productBasketType": {
+  "code": "ST",
+  "type": "ProductBasketTypeEnum"
+ },
+ "bargainProduct": false,
+ "addToCartMessage": "",
+ "incrementValue": 1,
+ "name": "Havregryn"
+}

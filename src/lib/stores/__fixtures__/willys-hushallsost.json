@@ -1,0 +1,239 @@
+{
+ "labels": [],
+ "potentialPromotions": [
+  {
+   "cartLabelFormatted": "",
+   "promotionRedeemLimit": 2,
+   "promotionPercentage": null,
+   "conditionLabelFormatted": "",
+   "productCodes": null,
+   "promotionType": "SubtotalOrderPromotion",
+   "textLabelGenerated": "",
+   "campaignType": "LOYALTY",
+   "textLabelManual": null,
+   "offerStatus": "Aktiv",
+   "promotionTheme": {
+    "code": "Z060",
+    "visible": true
+   },
+   "lowestHistoricalPrice": {
+    "currencyIso": "SEK",
+    "value": 108.9,
+    "priceType": "BUY",
+    "formattedValue": "108,90 kr/kg",
+    "minQuantity": null,
+    "maxQuantity": null,
+    "sapUnit": null
+   },
+   "code": "2500317271",
+   "threshold": 0,
+   "price": {
+    "currencyIso": "SEK",
+    "value": 69.9,
+    "priceType": "BUY",
+    "formattedValue": "69,90 kr",
+    "minQuantity": null,
+    "maxQuantity": null,
+    "sapUnit": null
+   },
+   "applied": false,
+   "realMixAndMatch": false,
+   "mainProductCode": "101197478_KG",
+   "splashTitleText": "Kampanj",
+   "timesUsed": 0,
+   "qualifyingCount": null,
+   "cartLabel": "69,90/kg",
+   "validUntil": 1791755999000,
+   "conditionLabel": "Spara 39,00 kr/kg",
+   "rewardLabel": "69,90/kg",
+   "textLabel": "",
+   "redeemLimitLabel": "Max 2 köp",
+   "comparePrice": "69,90 kr",
+   "priority": 609
+  }
+ ],
+ "inactivePotentialPromotions": [],
+ "extendedLabels": [],
+ "foodContactAddress": "",
+ "minStorageTemperature": "2°C",
+ "tradeItemCountryOfOrigin": "Danmark",
+ "nutritionFacts": "",
+ "salableOnline": true,
+ "compulsoryAdditiveLabelInformation": "",
+ "preparationDescription": "",
+ "nutrientHeaders": [
+  {
+   "preparationStateCode": null,
+   "dailyValueIntakeReference": "DRI",
+   "servingSizeDescription": "",
+   "servingSize": "",
+   "servingsSizeMeasurementUnitCode": "",
+   "nutrientBasisQuantity": "100",
+   "nutrientBasisQuantityMeasurementUnitCode": "gram",
+   "nutrientBasisQuantityTypeCode": "BY_MEASURE",
+   "driPercentageAvailable": true,
+   "nutrientDetails": [
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "1399",
+     "measurementUnitCode": "kilojoule",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "energi",
+     "quantityContained": "337",
+     "measurementUnitCode": "kilokalori",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "fett",
+     "quantityContained": "26",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav mättat fett",
+     "quantityContained": "17",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "kolhydrat",
+     "quantityContained": "0",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "varav sockerarter",
+     "quantityContained": "0",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "protein",
+     "quantityContained": "25",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "salt",
+     "quantityContained": "1.6",
+     "measurementUnitCode": "gram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": null
+    },
+    {
+     "nutrientTypeCode": "kalcium",
+     "quantityContained": "738",
+     "measurementUnitCode": "milligram",
+     "measurementPrecisionCode": "CA",
+     "dailyValueIntakePercent": "92"
+    }
+   ]
+  }
+ ],
+ "dietTypeInformation": "",
+ "batteryInformation": [],
+ "nutritionalClaim": "Naturligt rik på kalcium.",
+ "healthClaimDescription": "",
+ "preparationType": "",
+ "regulatoryAct": "",
+ "servingSize": null,
+ "instructions": "",
+ "countryOfOriginStatement": "",
+ "animalData": null,
+ "nutritionDescription": "100 gram",
+ "areBatteriesIncluded": false,
+ "consumerUsageInstructions": "",
+ "areBatteriesRequired": false,
+ "provinceStatement": "",
+ "googleAnalyticsCategory": "mejeri-ost-och-agg|ost|hardost-mild-mellan",
+ "maxStorageTemperature": "8°C",
+ "nutritionsFactList": [
+  {
+   "value": "1399",
+   "typeCode": "energi",
+   "unitCode": "kilojoule",
+   "measurementPrecisionCode": ""
+  }
+ ],
+ "nutrientComponents": [],
+ "foodContactName": "Arla Forum",
+ "otherCountries": [],
+ "fruitAndVegetableVariety": "",
+ "variantType": "",
+ "ean": "2340375300007",
+ "image": {
+  "imageType": "PRIMARY",
+  "format": "zoom",
+  "url": "https://assets.axfood.se/image/upload/f_auto,t_500/02340375300007_C1C1_s05",
+  "altText": "Hushållsost 26% ca: 2.2kg Arla",
+  "galleryIndex": null,
+  "width": null
+ },
+ "saleStop": null,
+ "medicineLink": "",
+ "categoryGroupText": "",
+ "medicineType": "",
+ "isDrugProduct": false,
+ "extraInfoCode": "",
+ "activeSubstance": "",
+ "originCountry": "",
+ "newsSplashProduct": false,
+ "notAllowedAnonymous": false,
+ "notAllowedB2b": false,
+ "pickupProductLine2": "ARLA, ca: 2.2kg",
+ "gdprTrackingIncompliant": false,
+ "savingsAmount": 39,
+ "priceNoUnit": "108,90",
+ "priceUnit": "kr/kg",
+ "productLine2": "ARLA, ca: 2.2kg",
+ "tobaccoProduct": false,
+ "nonEkoProduct": false,
+ "nicotineMedicalProduct": false,
+ "hazards": [],
+ "showGoodPriceIcon": false,
+ "tobaccoFreeNicotineProduct": false,
+ "precautionaryStatements": [],
+ "priceValue": 108.9,
+ "price": "108,90 kr/kg",
+ "ranking": null,
+ "solrSearchScore": null,
+ "energyDeclaration": null,
+ "comparePriceUnit": "kg",
+ "comparePrice": "108,90 kr",
+ "averageWeight": 2.2,
+ "depositPrice": "",
+ "manufacturer": "Arla",
+ "online": true,
+ "displayVolume": "ca: 2.2kg",
+ "outOfStock": false,
+ "addToCartDisabled": false,
+ "seoDescription": "",
+ "seoTitle": "",
+ "code": "101197478_KG",
+ "maxOrderQuantity": null,
+ "thumbnail": {
+  "imageType": "PRIMARY",
+  "format": "zoom",
+  "url": "https://assets.axfood.se/image/upload/f_auto,t_500/02340375300007_C1C1_s05",
+  "altText": "Hushållsost 26% ca: 2.2kg Arla",
+  "galleryIndex": null,
+  "width": null
+ },
+ "addToCartMessage": "",
+ "incrementValue": 1,
+ "bargainProduct": false,
+ "productBasketType": {
+  "code": "ST",
+  "type": "ProductBasketTypeEnum"
+ },
+ "name": "Hushållsost 26%"
+}

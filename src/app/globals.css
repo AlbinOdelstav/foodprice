@@ -1,0 +1,219 @@
+@import "tailwindcss";
+
+/*
+ * foodprice design tokens
+ * Concept: the Swedish grocery shelf — yellow shelf labels, green member tags,
+ * till receipts — on a warm oat background with a deep forest-green app shell.
+ */
+:root {
+  --bg: #f2eee4;
+  --bg-2: #e9e3d5;
+  --surface: #ffffff;
+  --surface-2: #faf8f3;
+  --ink: #0f1c15;
+  --ink-2: #3d4a42;
+  --muted: #6f7a72;
+  --line: #e3ddcf;
+  --line-strong: #cbc2ae;
+
+  --shell: #0f2a1f;
+  --shell-2: #163a2b;
+  --shell-ink: #e6efe8;
+  --shell-muted: #8fae9c;
+
+  --tag: #ffd43b;
+  --tag-ink: #141414;
+  --member: #0c8a5c;
+  --member-ink: #ffffff;
+  --member-soft: #dcf2e6;
+  --accent: #ff5a36;
+  --accent-soft: #ffe5dd;
+
+  --protein: #2f6bf0;
+  --fat: #f59e0b;
+  --carbs: #9b5cf6;
+
+  --shadow-sm: 0 1px 2px rgb(15 28 21 / 0.06);
+  --shadow: 0 1px 2px rgb(15 28 21 / 0.05), 0 12px 32px -16px rgb(15 28 21 / 0.25);
+  --shadow-lg: 0 2px 4px rgb(15 28 21 / 0.06), 0 30px 60px -24px rgb(15 28 21 / 0.35);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b120e;
+    --bg-2: #101a14;
+    --surface: #131e18;
+    --surface-2: #17241d;
+    --ink: #e8f0ea;
+    --ink-2: #b9c7be;
+    --muted: #82948a;
+    --line: #22322a;
+    --line-strong: #34473c;
+
+    --shell: #07100b;
+    --shell-2: #0f1f17;
+    --shell-ink: #e6efe8;
+    --shell-muted: #7e9a8a;
+
+    --tag: #ffd43b;
+    --tag-ink: #141414;
+    --member: #22b37c;
+    --member-ink: #04130c;
+    --member-soft: #10301f;
+    --accent: #ff6b4a;
+    --accent-soft: #3a1a12;
+
+    --protein: #5b8cff;
+    --fat: #fbb53c;
+    --carbs: #b18bff;
+
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.4);
+    --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 12px 32px -16px rgb(0 0 0 / 0.7);
+    --shadow-lg: 0 2px 4px rgb(0 0 0 / 0.3), 0 30px 60px -24px rgb(0 0 0 / 0.8);
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-2: var(--bg-2);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-shell: var(--shell);
+  --color-shell-2: var(--shell-2);
+  --color-shell-ink: var(--shell-ink);
+  --color-shell-muted: var(--shell-muted);
+  --color-tag: var(--tag);
+  --color-tag-ink: var(--tag-ink);
+  --color-member: var(--member);
+  --color-member-ink: var(--member-ink);
+  --color-member-soft: var(--member-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-protein: var(--protein);
+  --color-fat: var(--fat);
+  --color-carbs: var(--carbs);
+
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-bricolage);
+  --font-price: var(--font-barlow);
+
+  --shadow-sm: var(--shadow-sm);
+  --shadow-card: var(--shadow);
+  --shadow-lg: var(--shadow-lg);
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  background-color: var(--bg);
+  /* faint paper grain */
+  background-image: radial-gradient(color-mix(in oklab, var(--ink) 5%, transparent) 0.6px, transparent 0.6px);
+  background-size: 6px 6px;
+  color: var(--ink);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--tag) 70%, transparent);
+  color: var(--tag-ink);
+}
+
+@utility card {
+  @apply rounded-3xl border border-line bg-surface shadow-card;
+}
+@utility num {
+  @apply font-mono tabular-nums;
+}
+@utility eyebrow {
+  @apply text-[11px] font-semibold uppercase tracking-[0.16em] text-muted;
+}
+@utility display {
+  font-family: var(--font-bricolage);
+  font-variation-settings: "wdth" 96;
+  letter-spacing: -0.022em;
+}
+@utility btn {
+  @apply inline-flex h-10 items-center justify-center gap-2 rounded-full px-4 text-sm font-semibold transition
+    focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ink disabled:pointer-events-none disabled:opacity-40;
+}
+@utility btn-primary {
+  @apply btn bg-ink text-bg shadow-sm hover:-translate-y-px hover:shadow-card;
+}
+@utility btn-tag {
+  @apply btn bg-tag text-tag-ink shadow-sm hover:-translate-y-px hover:shadow-card;
+}
+@utility btn-ghost {
+  @apply btn border border-line bg-surface text-ink hover:border-line-strong hover:bg-surface-2;
+}
+@utility btn-danger {
+  @apply btn border border-line bg-surface text-accent hover:border-accent hover:bg-accent-soft;
+}
+@utility input {
+  @apply h-10 w-full rounded-xl border border-line bg-surface px-3 text-sm text-ink placeholder:text-muted
+    outline-none transition focus:border-ink/40 focus:ring-4 focus:ring-tag/40;
+}
+@utility label {
+  @apply mb-1.5 block text-xs font-semibold text-ink-2;
+}
+
+/* Perforated till-receipt edges */
+.receipt {
+  --r: 6px;
+  background: var(--surface);
+  mask:
+    radial-gradient(var(--r) at 50% 0, #0000 98%, #000) 50% 0 / calc(2 * var(--r) + 4px) 51% repeat-x,
+    radial-gradient(var(--r) at 50% 100%, #0000 98%, #000) 50% 100% / calc(2 * var(--r) + 4px) 51% repeat-x;
+}
+
+/* Diagonal stripes for empty / placeholder surfaces */
+.stripes {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    color-mix(in oklab, var(--ink) 4%, transparent) 0 8px,
+    transparent 8px 16px
+  );
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes swing {
+  0%,
+  100% {
+    transform: rotate(var(--rot, -4deg));
+  }
+  50% {
+    transform: rotate(calc(var(--rot, -4deg) + 3deg));
+  }
+}
+.animate-rise {
+  animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+.animate-swing {
+  animation: swing 6s ease-in-out infinite;
+  transform-origin: 50% 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-rise,
+  .animate-swing {
+    animation: none;
+  }
+}

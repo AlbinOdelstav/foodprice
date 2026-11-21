@@ -1,0 +1,148 @@
+{
+ "product": {
+  "productId": "2233e975-8790-48b2-8272-8460bdb6f8bb",
+  "retailerProductId": "2092307",
+  "type": "REGULAR",
+  "name": "Tonfisk i vatten 170g ICA",
+  "brand": "ICA",
+  "packSizeDescription": "0.12kg",
+  "price": {
+   "amount": "19.82",
+   "currency": "SEK"
+  },
+  "unitPrice": {
+   "price": {
+    "amount": "165.17",
+    "currency": "SEK"
+   },
+   "unit": "fop.price.per.kg.without.liquid",
+   "unitName": "PER_1KG_WITHOUT_LIQUID"
+  },
+  "available": true,
+  "isVerifiedPurchase": false,
+  "quantityInBasket": 0,
+  "maxQuantityReached": false,
+  "promotions": [
+   {
+    "promoId": "6d151b34-272d-44ce-9540-494a44669ff6",
+    "retailerPromotionId": "5004272941-1790164770",
+    "description": "2 för 30 kr -- Stammispris",
+    "type": "OFFER",
+    "presentationMode": "DEFAULT",
+    "requiredProductQuantity": 2,
+    "limitReached": false
+   }
+  ],
+  "taxCodesDisplayNames": [],
+  "image": {
+   "src": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/300x300.jpg",
+   "description": "Tonfisk i vatten 170g ICA",
+   "imageId": "d153afb7-ee8f-49fa-89df-3e8a982b79bb"
+  },
+  "images": [
+   {
+    "src": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/500x500.jpg",
+    "description": "Tonfisk i vatten 170g ICA",
+    "fopSrcset": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/100x100.webp 100w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/150x150.webp 150w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/200x200.webp 200w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/300x300.webp 300w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/350x350.webp 350w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/410x410.webp 410w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/500x500.webp 500w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/100x100.jpg 100w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/150x150.jpg 150w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/200x200.jpg 200w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/300x300.jpg 300w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/350x350.jpg 350w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/410x410.jpg 410w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/500x500.jpg 500w",
+    "bopSrcset": "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/300x300.webp 300w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/500x500.webp 500w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/640x640.webp 640w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/800x800.webp 800w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/960x960.webp 960w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/1120x1120.webp 1120w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/1280x1280.webp 1280w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/300x300.jpg 300w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/500x500.jpg 500w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/640x640.jpg 640w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/800x800.jpg 800w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/960x960.jpg 960w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/1120x1120.jpg 1120w, https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb/1280x1280.jpg 1280w",
+    "imageId": "d153afb7-ee8f-49fa-89df-3e8a982b79bb"
+   }
+  ],
+  "imageIds": [
+   "d153afb7-ee8f-49fa-89df-3e8a982b79bb"
+  ],
+  "imagePaths": [
+   "https://handlaprivatkund.ica.se/images-v3/bf7a00ca-390e-4769-865f-dc369586872e/d153afb7-ee8f-49fa-89df-3e8a982b79bb"
+  ],
+  "iconAttributes": [
+   {
+    "label": "Nyckelhålet",
+    "file": "nyckelhal"
+   },
+   {
+    "label": "MSC-märkt",
+    "file": "msc"
+   }
+  ],
+  "icons": [],
+  "basketLines": [],
+  "timeRestricted": false,
+  "alternatives": [],
+  "isInShoppingList": false,
+  "isInCurrentCatalog": true,
+  "medicalQuestionnaireRequired": false,
+  "retailerFinancingPlanIds": [],
+  "alcohol": false,
+  "categoryPath": [
+   "Skafferi",
+   "Fisk & köttkonserver",
+   "Fiskkonserver",
+   "Tonfisk"
+  ],
+  "isNew": false
+ },
+ "bopData": {
+  "detailedDescription": "ICA Tonfisk är nu MSC-märkt. God i sallad eller i en smakfull tonfiskröra.<br><br><b>Allergener</b><br>Innehåller Fisk",
+  "fields": [
+   {
+    "title": "brand",
+    "content": "ICA"
+   },
+   {
+    "title": "ingredients",
+    "content": "TONFISKBITAR*, vatten, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis) fångad i Indiska oceanen, fångstzon 51, 57."
+   },
+   {
+    "title": "storage",
+    "content": "<p>Innehåll i öppnad förpackning förvaras i ett annat kärl i kylskåp (max +8°C) i max två dagar.</p><h4>Lägsta förvaringstemperatur</h4>15°C<h4>Högsta förvaringstemperatur</h4>25°C"
+   },
+   {
+    "title": "nutritionalData",
+    "content": "<table><colgroup><col span=\"1\"><col span=\"1\"><col span=\"1\"></colgroup><tbody><tr><th>Näringsvärde</th><th>100 Gram</th><th>% av DRI(*)</th></tr><tr><td>Energi (kcal)</td><td>106 kcal</td><td></td></tr><tr><td>Energi (kJ)</td><td>444 kJ</td><td></td></tr><tr><td>Fett</td><td>1 g</td><td></td></tr><tr><td>Varav mättat fett</td><td>0 g</td><td></td></tr><tr><td>Kolhydrat</td><td>0 g</td><td></td></tr><tr><td>Varav sockerarter</td><td>0 g</td><td></td></tr><tr><td>Protein</td><td>24 g</td><td></td></tr><tr><td>Salt</td><td>1 g</td><td></td></tr></tbody></table><b>* Dagligt referensintag </b>"
+   },
+   {
+    "title": "recyclingInformation",
+    "content": "Burken sorteras som metall."
+   },
+   {
+    "title": "contactInformation",
+    "content": "ICA Sverige AB<br>Box 4075, 169 04 Solna, Sverige<br>Kundkontakt: 020-83 33 33 eller ica.se/kundservice"
+   },
+   {
+    "title": "otherInformation",
+    "content": "ICA har ambitionen att alltid ge Dig rätt information. Mindre förändringar i produkternas innehåll kan ske över tid och vi ber Dig därför att alltid före användning kontrollera informationen på produktens förpackning."
+   }
+  ],
+  "breadcrumbs": [
+   {
+    "categoryName": "Skafferi",
+    "categoryId": "c710bb7a-6525-4657-93bf-c1ddb4f645dc"
+   },
+   {
+    "categoryName": "Fisk & köttkonserver",
+    "categoryId": "c5647c35-d5ac-4ac4-ae17-58ed9cbd4eb3"
+   },
+   {
+    "categoryName": "Fiskkonserver",
+    "categoryId": "3ae647b9-2972-45b9-b241-e66a894e207b"
+   },
+   {
+    "categoryName": "Tonfisk",
+    "categoryId": "6d807020-488a-427a-a0cd-416ef72894cb"
+   }
+  ]
+ },
+ "bopPromotions": [
+  {
+   "promoId": "6d151b34-272d-44ce-9540-494a44669ff6",
+   "retailerPromotionId": "5004272941-1790164770",
+   "description": "2 för 30 kr -- Stammispris",
+   "longDescription": "5/10-11/10 2026, erbj jfr pris 125:00/kg utan spad.",
+   "type": "OFFER",
+   "presentationMode": "DEFAULT",
+   "limitReached": false,
+   "isMultiBuy": true
+  }
+ ],
+ "detailedImages": []
+}

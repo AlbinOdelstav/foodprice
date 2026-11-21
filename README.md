@@ -57,14 +57,3 @@ ICA's page and hands it to foodprice via `postMessage` (origin-checked on both s
 - `src/lib/repo`: data access · `src/app/api`: route handlers (zod-validated, JSON-only)
 
 User edits to store products (e.g. correcting a package size) are recorded as overrides and survive price refreshes.
-
-### Hosting on Azure later
-
-The build uses `output: "standalone"`, which runs on Azure App Service or Container Apps as-is. Before going public:
-
-1. **Database**: SQLite on local disk won't survive scale-out. Move to Azure Database for PostgreSQL (switch the
-   Drizzle dialect; the schema is small) or Azure SQL.
-2. **Auth**: there is none; it's a single-user local tool. Add Entra ID / App Service Authentication and scope
-   data per user.
-3. **ICA from a datacenter IP** will be challenged far more often; the bookmarklet becomes the primary ICA path
-   (it would then post to the deployed origin).

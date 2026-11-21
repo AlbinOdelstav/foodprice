@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Self-contained server bundle; also what Azure App Service / Container Apps want later.
+  // Self-contained server bundle.
   output: "standalone",
   // Migrations are read from disk at startup.
   outputFileTracingIncludes: { "/**": ["./drizzle/**/*"] },
